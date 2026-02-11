@@ -129,9 +129,8 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Keerthana** - *Flutter Developer(Fresher)*
+**Keerthana** - *Flutter Developer*
 
-- GitHub:
 - Email: keerthana010804@gmail.com
 
 **⭐ This project was built as part of my Flutter learning journey.**
