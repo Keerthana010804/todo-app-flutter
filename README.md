@@ -40,7 +40,11 @@ This project focuses on clean UI, local data storage, and notification handling,
 
 ## 📱 Screenshots
 
-(Screenshots will be added)
+<img width="953" height="552" alt="todo-app1" src="https://github.com/user-attachments/assets/1c8d33ab-7d78-408d-bfb4-dd6e79176203" />
+
+<img width="953" height="552" alt="todo-app2" src="https://github.com/user-attachments/assets/d795ea75-43fc-40ed-8a07-ec2ac1db86f1" />
+
+<img width="313" height="552" alt="todo-app3" src="https://github.com/user-attachments/assets/d89c67c5-c3fc-44e5-9d01-eb12058acca3" />
 
 ### Main Features:
 - Home screen with task list
