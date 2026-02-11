@@ -63,10 +63,6 @@ This project focuses on clean UI, local data storage, and notification handling,
 ### Installation
 
 1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/todo_app.git
-   cd todo_app
-   ```
 
 2. **Install dependencies**
    ```bash
